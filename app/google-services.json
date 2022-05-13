@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "461162358083",
+    "firebase_url": "https://freechat-66c5b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "freechat-66c5b",
+    "storage_bucket": "freechat-66c5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461162358083:android:023659773d6f9cc452fbf6",
+        "android_client_info": {
+          "package_name": "com.example.freechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461162358083-2mmfhq5mm5aflm0rmc1tp4sb9pdrik4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqkMAdc2VHGfxRzr1dGgVZWUjlWjIeRkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461162358083-2mmfhq5mm5aflm0rmc1tp4sb9pdrik4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
